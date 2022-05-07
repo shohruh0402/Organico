@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "141855326742",
+    "project_id": "organico-a4d10",
+    "storage_bucket": "organico-a4d10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141855326742:android:5070f677b4778c0cc96b37",
+        "android_client_info": {
+          "package_name": "com.shohruh.organico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141855326742-uf5b51t9vvn00lfe5gq5l3kelbht8l02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shohruh.organico",
+            "certificate_hash": "cec0325bfa8f0c1083b91fca070f56a9ae02fa11"
+          }
+        },
+        {
+          "client_id": "141855326742-cf1l8fh0r89b602b5kbot5su5so0qdf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlxg1r2hZAagWPUH4f7GAmaO2swQYhdAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141855326742-cf1l8fh0r89b602b5kbot5su5so0qdf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
